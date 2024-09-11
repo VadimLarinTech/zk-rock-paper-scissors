@@ -1,0 +1,13 @@
+[package]
+name = "zk-rock-paper-scissors"
+version = "0.1.0"
+authors = ["Vadim Larin <vadimlarintech@google.com>"]
+edition = "2023_11"
+
+[dependencies]
+starknet = ">=2.6.3"
+starknet_crypto = { git = "https://github.com/xJonathanLEI/starknet-rs" }
+
+[[target.starknet-contract]]
+sierra = true
+casm = true
