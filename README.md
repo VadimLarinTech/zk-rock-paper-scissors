@@ -1,6 +1,6 @@
-# ZK-RockPaperScissors
+# zk-rock-paper-scissors
 
-**ZK-RockPaperScissors** is a blockchain-based decentralized game that implements the classic "Rock, Paper, Scissors" game. Players can compete against each other, place bets, and use Zero-Knowledge Proofs (ZKP) to hide their moves until they are revealed. The project is built on the StarkNet ecosystem and uses the Cairo programming language for smart contract implementation.
+**zk-rock-paper-scissors** is a blockchain-based decentralized game that implements the classic "Rock, Paper, Scissors" game. Players can compete against each other, place bets, and use Zero-Knowledge Proofs (ZKP) to hide their moves until they are revealed. The project is built on the StarkNet ecosystem and uses the Cairo programming language for smart contract implementation.
 
 ## Key Features
 
@@ -21,5 +21,5 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/VadimLarinTech/ZK-RockPaperScissors.git
-cd ZK-RockPaperScissors
+git clone https://github.com/VadimLarinTech/zk-rock-paper-scissors.git
+cd zk-rock-paper-scissors

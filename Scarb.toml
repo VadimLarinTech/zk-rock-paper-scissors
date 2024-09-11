@@ -1,5 +1,5 @@
 [package]
-name = "zk-rock-paper-scissors"
+name = "zk_rock_paper_scissors"
 version = "0.1.0"
 authors = ["Vadim Larin <vadimlarintech@google.com>"]
 edition = "2023_11"
